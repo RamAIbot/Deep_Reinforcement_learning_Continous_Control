@@ -284,6 +284,6 @@ https://youtu.be/epX8-yMP9fA
 
 ```
 
-<h2>Future Imporvements</h2>
+<h2>Future Improvements</h2>
 
 The model can be trained with various actor critic methods like A3C, A2C, D4PG and performance of various models can be summarized. All the above actor critic method use distributed training using many agents rathe than a single agent. Also the agent can be further improved to mimic a real robotic arm having many joints and trained for any particula task to see the performance while using real world robotic arms.
